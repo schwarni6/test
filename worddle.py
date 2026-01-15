@@ -1,4 +1,4 @@
-import random
+
 import streamlit
 
 def wordle():
