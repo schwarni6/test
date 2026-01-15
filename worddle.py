@@ -1,4 +1,5 @@
 import random
+import streamlit
 
 def wordle():
     # Liste der möglichen Wörter (alle müssen 5 Buchstaben haben)
